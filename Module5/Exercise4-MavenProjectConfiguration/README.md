@@ -1,4 +1,4 @@
-# Exercise 3 - Implementing Logging with Spring AOP
+# Exercise 4 - Implementing Logging with Spring AOP
 
 ## Objective
 
@@ -35,4 +35,4 @@ Successfully implemented logging using Spring AOP and Aspect-Oriented Programmin
 
 ## Status
 
-✅ Exercise 3 Completed Successfully
+✅ Exercise 4 Completed Successfully
